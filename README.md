@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AymericChaverot&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 
 # Contact
-<a href="https://www.linkedin.com/in/arthur-pahon">
+<a href="https://www.linkedin.com/in/aymericchaverot/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
