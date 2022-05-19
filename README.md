@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymeric Chaverot</h1>
-<h3 align="center">I'm a student at EPITECH in Lyon, France.</h3>
+<h3 align="center">I'm a student at EPITECH in Lyon, France. 🇫🇷</h3>
 
 # What I know
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
