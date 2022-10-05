@@ -1,4 +1,7 @@
 // My VisualStudio Code settings.json
+// Theme: One Dark Pro Darker
+// Icon Theme: Material Theme Icons
+// Product Icon Theme: Material Product Icons
 {
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
