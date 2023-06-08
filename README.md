@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aymeric Chaverot</h1>
 <h3 align="center">I'm a student at EPITECH in Lyon, France. 🇫🇷</h3>
 
+# About me
+
+- Programming student
+- Computer Science and overall technology passionate
+- Currently more leaning into low level languages
+
 # My skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
