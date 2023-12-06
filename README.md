@@ -4,7 +4,7 @@
 # About me
 
 - Programming student
-- Computer Science and overall technology passionate
+- Information Technology, Computer Science and overall technology passionate
 - Currently more leaning into low level languages
 
 # My skills
