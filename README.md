@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aymeric Chaverot</h1>
 <h3 align="center">I'm a student at EPITECH in Lyon, France. 🇫🇷</h3>
+<h3 align="center">Currently abroad at FOI in Varaždin, Croatia 🇭🇷</h3>
 
 # About me
 
