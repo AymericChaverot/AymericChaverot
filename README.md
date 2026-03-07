@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aymeric Chaverot</h1>
 <h3 align="center">I'm a student at EPITECH in Lyon, France. 🇫🇷</h3>
-<h3 align="center">I'm currently in internship at Thales</h3>
+<h4 align="center">I'm currently in internship at Thales</h4>
 
 # About me
 
